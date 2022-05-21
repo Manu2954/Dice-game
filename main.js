@@ -82,7 +82,7 @@ bte.addEventListener('click',()=>{
     if(promp2!='')msg.innerHTML += (" <br /> " + promp2 + " is the LUCKIEST ").toUpperCase();
     if(promp2=='') msg.innerHTML += (" <br />" + "player 2 is the LUCKIEST ").toUpperCase();
   }
-  else msg.innerHTML += ("<br />" + "BOTH ARE EQUALLY LUCKY !!!").toUpperCase();
+  else msg.innerHTML += ("<br />" +"BOTH ARE EQUALLY LUCKY !!!").toUpperCase();
 
   bte.innerText='PLAY AGAIN BY RELOADING THE PAGE :)'
   bte.style.background='none'
