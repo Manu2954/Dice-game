@@ -1,10 +1,10 @@
 var dieImgs = [
-  "/diceCheckUrLuck/imgs&music/die1.png",
-  "/diceCheckUrLuck/imgs&music/die2.png",
-  "/diceCheckUrLuck/imgs&music/die3.png",
-  "/diceCheckUrLuck/imgs&music/die4.png",
-  "/diceCheckUrLuck/imgs&music/die5.png",
-  "/diceCheckUrLuck/imgs&music/die6.png",
+  "die1.png",
+  "die2.png",
+  "die3.png",
+  "die4.png",
+  "die5.png",
+  "die6.png",
 ];
 
 const clickk=new Audio('diceroll.wav')
